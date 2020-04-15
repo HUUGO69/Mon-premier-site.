@@ -1,0 +1,225 @@
+.logo{
+	width: 700px;
+	height: 320px;
+	margin-top: -215px;
+
+
+
+}
+
+.logo1{
+	margin-left: 190px;
+}
+
+.aqua{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	position: absolute;
+	font-weight: lighter;
+	top: 200px;
+	left: 182px;
+
+
+
+}
+
+.crecre{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	text-indent: 160px;
+	font-weight: lighter;
+
+}
+
+.menu{
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	display: inline-block;
+	border: 2px solid black;
+	word-spacing: 57.5px;
+	margin-left: 500px;
+	margin-top: 150px;
+	
+}
+
+
+
+a.nounderline{
+font-weight: lighter;
+text-decoration:none;
+color: black;
+
+}
+
+a.nounderline:hover {
+	color: #A9A9A9;
+}
+
+
+.yt{
+	height: 40px;
+	width: 40px;
+	position: absolute;
+	right: 115px;
+	top: 165px;
+
+}
+.insta{
+
+	height: 45px;
+	width: 45px;
+	position: absolute;
+	right: 170px;
+	top: 165px;
+}
+.fcbk{
+
+	height: 40px;
+	width: 40px;
+	position: absolute;
+	right: 230px;
+	top: 165px;
+}
+
+.goutte{
+	width: 900px;
+	height: 652px;
+	opacity: 80%;
+}
+
+
+
+
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 26px;
+	position: absolute;
+	font-style: italic;
+	font-weight: lighter;
+	right: 220px;
+	top: 250px;
+
+}
+
+.aquarium{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+	position: absolute;
+	font-weight: bolder;
+	right: 270px;
+	top: 350px;
+	text-align: center;
+	
+}
+
+.decouvrez{
+	font-size: 16px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+	position: absolute;
+	top: 890px;
+	left: 48%;
+	
+}
+
+.crevettes{
+	font-style: italic;
+	font-size: 18px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	position: absolute;
+	top: 940px;
+	left: 37%;
+	border: 1px solid black;
+	padding-right: 150px;
+	padding-left: 150px;
+}
+
+.log{
+	width: 591px;
+	height: 753px;
+	position: absolute;
+	top: 1050px;
+	left: 13%;
+	border: 5px solid black;
+}
+
+.tai{
+	width: 591px;
+	height: 373px;
+	position: absolute;
+	top: 1050px;
+	right: 11%;
+	border: 5px solid black;
+}
+
+
+.dav{
+	width: 591px;
+	height: 373px;
+	position: absolute;
+	top: 1430px;
+	right: 11%;
+	border: 5px solid black;
+}
+
+.shrimp{
+	font-size: 16px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: lighter;
+	position: absolute;
+	top: 1900px;
+	left: 42%;
+	border: 1px solid black;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+.loge{
+	color: white;
+	border: 0px solid grey;
+	padding-right: 150px;
+	background-color: #696969;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	position: absolute;
+	top: 1075px;
+	left: 13.35%;
+
+}
+
+
+.davi{
+	color: white;
+	border: 0px solid grey;
+	padding-right: 228px;
+	background-color: #69696F;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	position: absolute;
+	top: 1455px;
+	right: 28.12%;
+}
+
+
+.taiw{
+	color: white;
+	border: 0px solid grey;
+	padding-right: 150px;
+	background-color: #696969;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	position: absolute;
+	top: 1075px;
+	right: 28.3%;
+
+}
+
+.mentions{
+	font-size: 10px;
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	top: 2050px;
+	left: 41%;
+}
